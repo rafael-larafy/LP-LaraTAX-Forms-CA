@@ -110,7 +110,7 @@ export default function HeroContent() {
               ease: "easeOut",
               delay: 0.12 + index * 0.08,
             }}
-            className="group relative overflow-hidden rounded-2xl border border-white/[0.08] bg-gradient-to-br from-white/[0.06] to-transparent px-4 py-4 sm:px-5 sm:py-5 shadow-[0_0_0_1px_rgba(53,185,215,0.06)] transition-colors hover:border-cyan/25 hover:shadow-[0_0_32px_-12px_rgba(53,185,215,0.35)]"
+            className="group relative overflow-hidden rounded-2xl border border-cyan/15 bg-navy-10 backdrop-blur-xl px-4 py-4 sm:px-5 sm:py-5 shadow-[0_0_0_1px_rgba(53,185,215,0.06)] transition-colors hover:border-cyan/25 hover:shadow-[0_0_32px_-12px_rgba(53,185,215,0.35)]"
           >
             <div
               aria-hidden
