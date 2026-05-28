@@ -6,7 +6,6 @@ import { useEffect, useRef, useState } from "react";
 const trustBadges = [
   { value: 200, prefix: "+R$", suffix: "M", label: "Recuperados", delay: 0 },
   { value: 450, prefix: "", suffix: "+", label: "Empresas atendidas", delay: 150 },
-  { text: "Zero", label: "Risco p/ você" },
 ];
 
 const deliverables = [
